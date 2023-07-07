@@ -1,4 +1,4 @@
-print("This is a simple code for calculating the area of a square ")
+print("This is a simple code for calculating the area of a square.")
 
 # The length of the square.
 length = 20
