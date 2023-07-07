@@ -31,4 +31,4 @@ print("The area of the circle second is:", area2)
 if area1 > area2:
 
          # Print a message if circle first is greater than circle second.
-    print("Circle first is greater than Circle second") 
+    print("Circle first is greater than Circle second.") 

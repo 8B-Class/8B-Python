@@ -31,4 +31,4 @@ print("The area of the circle second is:", area2)
 if area1 > area2:
 
          # Print a message if circle first is equal to circle second.
-    print("Circle first is equal to Circle second") 
+    print("Circle first is equal to Circle second.") 

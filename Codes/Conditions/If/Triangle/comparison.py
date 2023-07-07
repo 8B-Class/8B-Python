@@ -35,4 +35,4 @@ print("The area of the triangle second is:", area2)
 if area1 > area2:
 
          # Print a message if triangle first is greater than triangle second.
-    print("Triangle first is greater than Triangle second") 
+    print("Triangle first is greater than Triangle second.") 

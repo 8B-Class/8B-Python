@@ -36,4 +36,4 @@ print("The area of the square second is:", area2)
 if area1 > area2:
 
          # Print a message if square first is equal to square second.
-    print("Square first is equal to Square second") 
+    print("Square first is equal to Square second.") 
